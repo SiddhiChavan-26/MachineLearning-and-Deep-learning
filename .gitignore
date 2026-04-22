@@ -1,0 +1,4 @@
+.env
+Langchain_App/.env
+venv/
+__pycache__/
